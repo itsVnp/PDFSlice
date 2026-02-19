@@ -41,7 +41,7 @@ Made in India · Built with love
 
 The app is a single static HTML file. Deploy to any static host:
 
-- **Vercel / Netlify / GitHub Pages** — Upload the folder or connect the repo. No environment variables or build step needed.
+- **Vercel / Netlify / GitHub Pages** — Connect the repo; each push to `main` triggers a new deployment. No environment variables or build step needed.
 - **Any web server** — Serve the directory; `index.html` is the entry point.
 
 ## Tech
