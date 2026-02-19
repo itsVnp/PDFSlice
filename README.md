@@ -2,7 +2,7 @@
 
 Convert PDF pages to high-quality images, or combine images into one PDF — **100% in your browser**. No uploads, no server, no account. Your files never leave your device.
 
-**Live:** [pdfslice.com](https://pdfslice.com)
+**Live:** [pdfslice.com](https://pdfslice.com) · [Vercel](https://pdf-slice-zeta.vercel.app)
 
 Made in India · Built with love
 
@@ -39,7 +39,7 @@ Made in India · Built with love
 
 ## Deploy
 
-The app is a single static HTML file. Deploy to any static host:
+This repo is deployed on **Vercel** at [pdf-slice-zeta.vercel.app](https://pdf-slice-zeta.vercel.app). The app is a single static HTML file and can be deployed to any static host:
 
 - **Vercel / Netlify / GitHub Pages** — Connect the repo; each push to `main` triggers a new deployment. No environment variables or build step needed.
 - **Any web server** — Serve the directory; `index.html` is the entry point.
