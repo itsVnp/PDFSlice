@@ -4,6 +4,8 @@ Convert PDF pages to high-quality images, or combine images into one PDF — **1
 
 **Live:** [pdfslice.com](https://pdfslice.com)
 
+Made in India · Built with love
+
 ## Features
 
 - **PDF → IMG** — Export each PDF page as an image (JPEG). Adjust resolution scale and image quality. Download all pages as a ZIP.
@@ -49,6 +51,13 @@ The app is a single static HTML file. Deploy to any static host:
 - [JSZip](https://stuk.github.io/jszip/) — ZIP download for multiple images
 
 No backend. All processing happens in the browser.
+
+## Developer
+
+**Vivekanand**
+
+- [LinkedIn](https://www.linkedin.com/in/itsvnp/)
+- [vivekanand.me](https://vivekanand.me)
 
 ## License
 
